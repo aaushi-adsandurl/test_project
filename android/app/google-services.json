@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531911054737",
+    "project_id": "testpushnotification-70048",
+    "storage_bucket": "testpushnotification-70048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531911054737:android:05bececd93b163264ab630",
+        "android_client_info": {
+          "package_name": "com.example.test_for_soft_prodigy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531911054737-cdnvrlga2est1jrqqa2rvfb164peipbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-nVMKa7CdWM7VBS-SgTHcy1ADygcCV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531911054737-cdnvrlga2est1jrqqa2rvfb164peipbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
